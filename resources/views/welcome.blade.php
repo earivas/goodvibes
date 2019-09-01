@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel con Vue
+                    Laravel con Vue.js
                 </div>
 
                 <div class="links">
